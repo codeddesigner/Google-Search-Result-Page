@@ -1,0 +1,49 @@
+.low{
+	margin-top: 102px;
+}
+.navbar-inverse{
+	background-color: white;
+	border-color: white;
+}
+a{
+	color: blue;
+}
+#round{
+	margin-top: -31px;
+	width: 400px;
+	margin-left: 125px;
+	border-radius: 4.0rem;
+}
+.gmail{
+	margin-top: -14px;
+	margin-left:298px;
+
+}
+/*#images{
+	margin-top: 22px;
+}*/
+
+.navbar-inverse .navbar-nav > li > a {
+	color: black;
+	margin-top: -29px;
+	margin-left: 10px;
+	padding-bottom: 30px;
+}
+.logi{
+	margin-top: -13px;
+}
+
+.images{
+	margin-left: 10px;
+	margin-top: -45px;
+}
+
+.all{
+	margin-left: 120px;
+}
+.alli{
+	border-bottom: 2px solid blue;
+}
+.loe{
+	margin-top: 150px;
+}
